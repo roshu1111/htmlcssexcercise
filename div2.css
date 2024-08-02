@@ -1,0 +1,87 @@
+.table{
+    border: 5px dotted blue;
+    background-image: url(pizza.jpeg);
+    /* padding: 30px; */
+    background-repeat : no-repeat;
+    background-size:cover;
+
+}
+.pizza{
+    border: 2px solid rgb(243, 232, 232);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.capsicum{
+    border: 2px solid rgb(242, 237, 237);
+    width: 150px;
+    height: 150px;
+
+
+}
+.olive{
+    border:2px solid rgb(253, 247, 247) ;
+    width: 150px;
+    height: 150px;
+}
+.redpeprika{
+    border:2px solid rgb(247, 243, 243) ;
+    width: 150px;
+    height: 150px;
+
+}
+.burger{
+     border: 2px solid rgb(197, 192, 192);
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.mayonese{
+    border: 2px solid rgb(212, 207, 207);
+    width: 150px;
+    height: 150px;
+
+
+}
+.aloopatty{
+    border: 2px solid rgb(212, 206, 206);
+    width: 150px;
+    height: 150px;
+}
+
+.cheese{
+    border:2px solid rgb(39, 36, 36) ;
+    width: 150px;
+    height: 150px;
+
+}
+.frenchfries{
+    border: 2px solid black;
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.cheesyfries{
+    border: 2px solid rgb(32, 29, 29);
+    width: 150px;
+    height: 150px;
+
+
+}
+.salted{
+    border:2px solid rgb(253, 247, 247) ;
+    width: 150px;
+    height: 150px;
+}
+.periperi{
+    border:2px solid rgb(253, 247, 247) ;
+    width: 150px;
+    height: 150px;
+}
+
+
+
+
+
